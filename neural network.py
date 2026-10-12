@@ -4,7 +4,7 @@
 # In[3]:
 
 
-# Neural netork mayank joshi
+
 
 import numpy, random, os
 lr = 1 #learning rate
